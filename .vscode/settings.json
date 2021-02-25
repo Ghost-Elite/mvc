@@ -1,0 +1,9 @@
+{
+    "php.validate.executablePath": "/usr/bin/php",
+    "genGetSet.ignoredDictionaryList": [
+
+        "vscode",
+        "tsconfig"
+    ],
+    "php.executablePath": "/usr/bin/php"
+}
